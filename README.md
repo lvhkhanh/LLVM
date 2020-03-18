@@ -13,3 +13,5 @@
 ## https://github.com/TimBo93/LLVM-Windows/wiki/1)-Install-LLVM-for-Windows
 
 ## https://github.com/ajkhoury/LLVM-Build-Windows
+
+## http://www.isi.edu/~pedro/Teaching/CSCI565-Spring15/Projects/Project1-LLVM/LLVMInstructions-Windows.pdf
