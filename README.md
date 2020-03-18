@@ -15,3 +15,5 @@
 ## https://github.com/ajkhoury/LLVM-Build-Windows
 
 ## http://www.isi.edu/~pedro/Teaching/CSCI565-Spring15/Projects/Project1-LLVM/LLVMInstructions-Windows.pdf
+
+## http://llvm.org/docs/WritingAnLLVMPass.html
