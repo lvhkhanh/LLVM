@@ -18,4 +18,6 @@
 
 ## https://llvm.org/docs/GettingStarted.html
 
+### choco install cmake
+
 ## http://llvm.org/docs/WritingAnLLVMPass.html
