@@ -16,4 +16,6 @@
 
 ## http://www.isi.edu/~pedro/Teaching/CSCI565-Spring15/Projects/Project1-LLVM/LLVMInstructions-Windows.pdf
 
+## https://llvm.org/docs/GettingStarted.html
+
 ## http://llvm.org/docs/WritingAnLLVMPass.html
