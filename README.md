@@ -18,6 +18,9 @@
 
 ## https://llvm.org/docs/GettingStarted.html
 
+### Visual Studio add workload Desktop C/C++ lang
+### choco install python --force
 ### choco install cmake.install --installargs '"ADD_CMAKE_TO_PATH=User"' --force
+### "C:\Program Files\CMake\bin\cmake.exe" -DLLVM_ENABLE_PROJECTS=clang  -G "Visual Studio 16 2019" -Thost=x64 -A x64 ..\llvm
 
 ## http://llvm.org/docs/WritingAnLLVMPass.html
