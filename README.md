@@ -18,6 +18,6 @@
 
 ## https://llvm.org/docs/GettingStarted.html
 
-### choco install cmake
+### choco install cmake.install --installargs '"ADD_CMAKE_TO_PATH=User"' --force
 
 ## http://llvm.org/docs/WritingAnLLVMPass.html
