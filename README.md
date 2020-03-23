@@ -4,6 +4,8 @@
 
 ## https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8719895
 
+## https://www.conference-publishing.com/list.php?Event=SANERWS20IWSC
+
 ## https://www.infoworld.com/article/3247799/what-is-llvm-the-power-behind-swift-rust-clang-and-more.html
 
 ## http://ellcc.org/demo/index.cgi
