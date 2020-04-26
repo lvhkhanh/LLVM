@@ -21,6 +21,8 @@
 ### [Clang Static Analyzer](http://clang-analyzer.llvm.org/)
 ### [AddressSanitizer — Clang 11 documentation](https://clang.llvm.org/docs/AddressSanitizer.html)
 ### [Tutorial One · KLEE](http://klee.github.io/tutorials/testing-function/)
+## Installs
+### choco install llvm
 
 ## https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/396812/1/IWSC2020.pdf
 
