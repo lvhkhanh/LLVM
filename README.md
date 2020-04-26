@@ -1,9 +1,18 @@
 # LLVM
+## Official
+### [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 ## Books
 ### [getting-started-with-llvm-core-libraries.pdf](https://org.computer/dist/pdf/getting-started-with-llvm-core-libraries.pdf)
 ## Slides
 ### [Introduction to Compilers](https://www.cs.umd.edu/class/fall2018/cmsc430/slides/xx-llvm.pdf)
+### [2015 LLVM Developers' Meeting](https://llvm.org/devmtg/2015-10/)
+## Videos
+### [LLVM - YouTube](https://www.youtube.com/channel/UCv2_41bSAa5Y_8BacJUZfjQ)
 ## Links
+### [A Tour to LLVM IR（上） - 知乎](https://zhuanlan.zhihu.com/p/66793637)
+### [A quick tour of LLVM’s Sanitizer coverage - Oliver Wyman Digital: Engineering](https://tech.labs.oliverwyman.com/blog/2017/10/04/a-quick-tour-of-llvms-sanitizer-coverage/)
+### [A Tourist’s Guide to the LLVM Source Code – Embedded in Academia](https://blog.regehr.org/archives/1453)
+### [LLVM Programmer’s Manual — LLVM 10 documentation](https://llvm.org/docs/ProgrammersManual.html)
 ### [The Architecture of Open Source Applications: LLVM](http://www.aosabook.org/en/llvm.html)
 ### [LLVM Language Reference Manual — LLVM 10 documentation](http://llvm.org/docs/LangRef.html)
 ### [LLVM Command Guide — LLVM 10 documentation](https://llvm.org/docs/CommandGuide/)
