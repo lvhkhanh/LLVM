@@ -3,6 +3,7 @@
 ### [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 ## Books
 ### [getting-started-with-llvm-core-libraries.pdf](https://org.computer/dist/pdf/getting-started-with-llvm-core-libraries.pdf)
+### [Update for LLVM Version 3.5 6924OS_Appendix.pdf ](https://static.packt-cdn.com/downloads/6924OS_Appendix.pdf)
 ## Slides
 ### [Introduction to Compilers](https://www.cs.umd.edu/class/fall2018/cmsc430/slides/xx-llvm.pdf)
 ### [2015 LLVM Developers' Meeting](https://llvm.org/devmtg/2015-10/)
