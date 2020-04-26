@@ -1,4 +1,6 @@
 # LLVM
+## Books
+### [getting-started-with-llvm-core-libraries.pdf](https://org.computer/dist/pdf/getting-started-with-llvm-core-libraries.pdf)
 ## Slides
 ### [Introduction to Compilers](https://www.cs.umd.edu/class/fall2018/cmsc430/slides/xx-llvm.pdf)
 ## Links
